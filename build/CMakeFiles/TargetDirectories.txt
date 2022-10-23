@@ -1,0 +1,3 @@
+/home/nekrilov/workspace/homework/build/CMakeFiles/Homework.dir
+/home/nekrilov/workspace/homework/build/CMakeFiles/edit_cache.dir
+/home/nekrilov/workspace/homework/build/CMakeFiles/rebuild_cache.dir
